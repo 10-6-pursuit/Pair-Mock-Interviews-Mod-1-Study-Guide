@@ -5,7 +5,7 @@ It's never too early to practice solving coding challenges! This guide will help
 ## Before the interview
 
 1. Choose who will start as the interviewer and who as the interviewee. You will switch after the first interview
-2. The interviewer should choose a [trivia question](https://github.com/joinpursuit/Mock-Interview-Trivia-Questions/blob/main/README.md) and a [coding question](https://github.com/10-6-pursuit/mod_1_final_assessment_study_guide/blob/main/index.js)
+2. The interviewer should choose a [trivia question](https://github.com/joinpursuit/Mock-Interview-Trivia-Questions/blob/main/README.md) and a [coding question](https://github.com/10-6-pursuit/mod_1_final_assessment_study_guide/blob/main/index.js) (Without the console.logs)
 3. If it's online meet at a Zoom room and have the interviewee share their screen on an empty replit or an empty whiteboard. If it's in person should find a whiteboard at the office or bring their own
 4. The interviewer would Slack the question to the interviewee
 
@@ -30,3 +30,7 @@ This is not a real interview but the more seriously you take it the more value y
 * As an interviewer you can give hints and be kind
 * Remember, as an interviewee to always keep the conversation flowing. People want to see if they could work with you no their teams
 * It's more important to show that you have an idea on how to solve a problem and approaching it methodically than actually getting your code running correctly as this point
+* You should NOT
+    * Make assumptions
+    * Be overly quiet
+    * Give up.
