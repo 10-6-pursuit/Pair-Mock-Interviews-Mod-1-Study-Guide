@@ -13,7 +13,7 @@ It's never too early to practice solving coding challenges! This guide will help
 
 This is not a real interview but the more seriously you take it the more value you can get out of it
 
-1. The interviewer would asj the interviewee to tell them a little bit about themselves. Use this to practice your elevator pitch
+1. The interviewer would ask the interviewee to tell them a little bit about themselves. Use this to practice your elevator pitch
 1. The interviewer would ask the interviewee the trivia question first (2-3 minutes)
 1. The interviewer would Slack the coding question in a dm to the interviewee
 1. The interviewee would follow [these steps](https://docs.google.com/document/d/1lWxbJjU28OFxnKT5HrAizb5EbNtNUe87pta9tMpwHBo/edit?usp=sharing) to solve the coding challenge. If the interviewer isn't sure how to answer clarifying questions it's always good to say that they can expect only valid inputs. Feel free to also google or call for help. (20-25 minutes)
